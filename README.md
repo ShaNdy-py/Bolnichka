@@ -1,2 +1,1 @@
 # Bolnichka
-def hui(;fsdfsdf;)lkffnwenf;wnfweefweelfnweenfkwneeflkwneeflnwlefnkwenflkwnfknweefnwnffwfwpefp33nfnfpnwf
