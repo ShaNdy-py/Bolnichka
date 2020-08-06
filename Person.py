@@ -9,5 +9,8 @@ class Person(): # ага - да
 	def set_name(self, name):
 		self.name = name
 
+	def set_family_name(self, family):
+		self.family_name = family	
+
 	def set_number(self, number):
 		self.number = number
