@@ -6,3 +6,8 @@ class Person(): # ага - да
 		self.patronymic = patron
 		self.phone_number = number
 
+	def function(self):
+		pass
+
+	def function_1(self):
+		pass
