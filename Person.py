@@ -5,3 +5,6 @@ class Person(): # ага - да
 		self.family_name = family
 		self.patronymic = patron
 		self.phone_number = number
+
+	def set_name(self, name):
+		self.name = name
