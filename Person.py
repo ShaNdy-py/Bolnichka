@@ -5,10 +5,3 @@ class Person(): # ага - да
 		self.family_name = family
 		self.patronymic = patron
 		self.phone_number = number
-
-	def function(self):
-		pass
-
-	def function_1(self):
-		pass
-		weewr
