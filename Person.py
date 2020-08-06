@@ -11,3 +11,4 @@ class Person(): # ага - да
 
 	def function_1(self):
 		pass
+		weewr
