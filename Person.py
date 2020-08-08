@@ -12,5 +12,8 @@ class Person(): # ага - да
 	def set_family_name(self, family):
 		self.family_name = family	
 
+	def set_patron(self, patron):
+		self.patronymic = patron
+				
 	def set_number(self, number):
 		self.number = number
