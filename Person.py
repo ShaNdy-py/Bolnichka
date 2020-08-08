@@ -16,7 +16,7 @@ class Person(): # ага - да
 		self.patronymic = patron
 				
 	def set_number(self, number):
-		self.number = number
+		self.phone_number = number
 
 	def get_name(self):
 		return self.name
@@ -28,4 +28,4 @@ class Person(): # ага - да
 		return self.patronymic
 				
 	def get_number(self):
-		return self.number
+		return self.phone_number
