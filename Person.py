@@ -17,3 +17,15 @@ class Person(): # ага - да
 				
 	def set_number(self, number):
 		self.number = number
+
+	def get_name(self):
+		return self.name
+
+	def get_family_name(self):
+		return self.family_name	
+
+	def get_patron(self):
+		return self.patronymic
+				
+	def get_number(self):
+		return self.number
