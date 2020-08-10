@@ -1,6 +1,5 @@
 class Person(): # ага - да
 	
-	def __init__(self, name, family, patron, number, policy, place):
 	def __init__(self, name, family, patron, number, policy, place, type_of_help):
 		self.name = name
 		self.family_name = family
