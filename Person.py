@@ -43,3 +43,5 @@ class Person(): # ага - да
 
 	def get_place(self):
 		return self.place
+		# sdfksldncksndvknsdkmsdlvnskldnv
+	#комментарий да
