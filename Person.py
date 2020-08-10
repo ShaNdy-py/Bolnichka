@@ -26,6 +26,9 @@ class Person(): # ага - да
 	def set_place(self, place):
 		self.place = place
 
+	def set_type_of_help(self, type_of_help):
+		self.type_of_help = type_of_help
+
 	def get_name(self):
 		return self.name
 
@@ -43,3 +46,6 @@ class Person(): # ага - да
 
 	def get_place(self):
 		return self.place
+
+	def get_type_of_help(self):
+		return self.type_of_help
