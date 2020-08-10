@@ -1,10 +1,12 @@
 class Person(): # ага - да
 	
-	def __init__(self, name, family, patron, number):
+	def __init__(self, name, family, patron, number, policy, place):
 		self.name = name
 		self.family_name = family
 		self.patronymic = patron
 		self.phone_number = number
+		self.policy = policy
+		self.place = place
 
 	def set_name(self, name):
 		self.name = name
@@ -18,6 +20,12 @@ class Person(): # ага - да
 	def set_number(self, number):
 		self.phone_number = number
 
+	def set_polis(self, policy):
+		self.policy = policy
+
+	def set_place(self, place):
+		self.place = place
+
 	def get_name(self):
 		return self.name
 
@@ -29,3 +37,9 @@ class Person(): # ага - да
 				
 	def get_number(self):
 		return self.phone_number
+
+	def get_policy(self):
+		return self.policy
+
+	def get_place(self):
+		return self.place
