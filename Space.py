@@ -16,3 +16,4 @@ class space():
 
     def get_person(self):
         return self.person
+#fhghfkjgf
