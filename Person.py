@@ -21,7 +21,7 @@ class Person(): # ага - да
 	def set_number(self, number):
 		self.phone_number = number
 
-	def set_polis(self, policy):
+	def set_policy(self, policy):
 		self.policy = policy
 
 	def set_place(self, place):
